@@ -1,0 +1,71 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Abyss",
+  "telemetry.enableCrashReporter": false,
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "all",
+  "files.insertFinalNewline": true,
+  "material-icon-theme.showUpdateMessage": false,
+  "editor.tabSize": 2,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.detectIndentation": false,
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "explorer.confirmDelete": false,
+  "editor.fontFamily": "Meslo LG S for Powerline",
+  "editor.fontSize": 17,
+  "terminal.integrated.fontSize": 15,
+  "files.autoSave": "onFocusChange",
+  "editor.autoIndent": true,
+  "window.menuBarVisibility": "toggle",
+  "javascript.validate.enable": false,
+  "sync.gist": "2ffac4cc23fe55d33947a1f979373794",
+  "sync.host": "",
+  "sync.pathPrefix": "",
+  "sync.quietSync": false,
+  "sync.askGistName": false,
+  "sync.removeExtensions": true,
+  "sync.syncExtensions": true,
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  "sync.lastUpload": "2018-05-11T11:44:52.778Z",
+  "sync.lastDownload": "",
+  "sync.forceDownload": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+  },
+  "files.useExperimentalFileWatcher": true,
+  "prettier.eslintIntegration": true,
+  "files.trimTrailingWhitespace": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.next": true
+  },
+  "gitlens.hovers.currentLine.details": false,
+  "gitlens.blame.highlight.enabled": false,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    "html"
+  ],
+  "git.autofetch": true,
+  "[javascriptreact]": {
+
+  },
+  "git.enableSmartCommit": true
+}
